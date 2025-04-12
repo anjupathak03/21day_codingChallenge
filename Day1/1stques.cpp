@@ -1,1 +1,0 @@
-Cout<<"jai ma kali";
